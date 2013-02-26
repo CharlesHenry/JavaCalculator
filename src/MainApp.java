@@ -1,5 +1,5 @@
 /*
- * @MainApp.java - A file used to run the Java Calculator
+ * @MainApp.java - A file used to run the Java Calculator.
  * @author Charles Henry
  */
 
